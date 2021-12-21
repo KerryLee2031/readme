@@ -1,5 +1,4 @@
-# readme# 
-Re-implement the work in paper: Residual Attention Networks for Image Classification
+# Re-implement the work in paper: Residual Attention Networks for Image Classification
 Xin Huang (UNI: xh2510), Qimeng Tao (UNI: qt2139), Kangrui Li (UNI: kl3350)
 ##  Introduce
 
